@@ -1,0 +1,5 @@
+mimepipe is based largely on MiniMIME which is redistributable under a variety
+of licenses. See the source for more details.
+
+mimepipe's own code is mimepipe.c which is redistributable under the
+GNU General Public License v2.

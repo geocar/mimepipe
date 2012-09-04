@@ -1,0 +1,2 @@
+Reads a mime message on input and runs a program for each part, with each
+decoded part attached to standard input.

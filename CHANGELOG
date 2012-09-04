@@ -1,0 +1,39 @@
+2008-08-06 14:07  geocar
+
+	* deploy.sh: perm check
+
+2007-07-19 10:03  geocar
+
+	* Makefile: workaround bug
+
+2005-12-08 05:00  geocar
+
+	* Makefile: make makefile usable by others
+
+2005-12-08 04:57  geocar
+
+	* mimeparser.l, mimeparser.y: fix to handle broken preambles (and
+	  other things)
+
+2005-12-08 04:56  geocar
+
+	* mimepipe.c: print error message on exit
+
+2005-12-07 05:48  geocar
+
+	* Makefile, deploy.sh, mimeparser.h, mimeparser.l, mimeparser.y,
+	  mimepipe.c, mm.h, mm_base64.c, mm_codecs.c, mm_contenttype.c,
+	  mm_context.c, mm_envelope.c, mm_error.c, mm_header.c, mm_init.c,
+	  mm_internal.h, mm_loc.c, mm_mem.c, mm_mem.h, mm_mimepart.c,
+	  mm_mimeutil.c, mm_param.c, mm_parse.c, mm_queue.h, mm_util.c,
+	  mm_util.h, mm_warnings.c, strlcat.c, strlcpy.c: Initial revision
+
+2005-12-07 05:48  geocar
+
+	* Makefile, deploy.sh, mimeparser.h, mimeparser.l, mimeparser.y,
+	  mimepipe.c, mm.h, mm_base64.c, mm_codecs.c, mm_contenttype.c,
+	  mm_context.c, mm_envelope.c, mm_error.c, mm_header.c, mm_init.c,
+	  mm_internal.h, mm_loc.c, mm_mem.c, mm_mem.h, mm_mimepart.c,
+	  mm_mimeutil.c, mm_param.c, mm_parse.c, mm_queue.h, mm_util.c,
+	  mm_util.h, mm_warnings.c, strlcat.c, strlcpy.c: loaded into CVS
+
